@@ -1,0 +1,1 @@
+ C:\\Users\\Planet\\StudioProjects\\femtor\\.dart_tool\\flutter_build\\b2a8bb2f3ced77801e4a9170d63291b3\\native_assets.json: 
